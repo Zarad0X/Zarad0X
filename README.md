@@ -1,8 +1,8 @@
-  Hi, I’m @Zarad0X, a undergraduate student majoring in computer science
-  I’m interested in cv & embodied ai
-  I’m currently learning  3d vision and some robotics
-  I’m looking to collaborate on cv & robotics
-  YOu can reach me by email 3230102282@zju.edu.cn
+ - Hi, I’m @Zarad0X, a undergraduate student majoring in computer science.  
+ - I’m interested in cv & embodied ai.
+ - I’m currently learning  3d vision and some robotics.
+ - I’m looking to collaborate on cv & robotics.
+ - You can reach me by email at 3230102282@zju.edu.cn.
 
 
 <!---
